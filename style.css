@@ -1,0 +1,27 @@
+.logo {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 10px; /* مسافة بين الصورة والنص */
+}
+
+.logo h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 0;
+    background: linear-gradient(to right, #2812f3, #3cd6e7, #0ff207); /* ألوان متدرجة */
+    -webkit-background-clip: text; /* يجعل التدرج داخل النص */
+    -webkit-text-fill-color: transparent; /* يجعل النص شفافًا لعرض التدرج */
+    font-family: 'Arial', sans-serif;
+}
+ h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 0;
+    background: linear-gradient(to right, #2812f3, #3cd6e7, #0ff207); /* ألوان متدرجة */
+    -webkit-background-clip: text; /* يجعل التدرج داخل النص */
+    -webkit-text-fill-color: transparent; /* يجعل النص شفافًا لعرض التدرج */
+    font-family: 'Arial', sans-serif;
+}
+
+
